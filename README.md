@@ -1,5 +1,3 @@
-[![@saefullohmaslul's Holopin board](https://holopin.io/api/user/board?user=saefullohmaslul)](https://holopin.io/@saefullohmaslul)
-
 ## Hello World :clap:
 
 I'm Saefulloh Maslul, I'm a software engineer :man_technologist: who is passionate about backend technologies and open source. 
